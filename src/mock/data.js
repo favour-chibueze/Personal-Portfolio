@@ -12,7 +12,7 @@ export const heroData = {
   title: '',
   name: 'Favour Chibueze',
   subtitle: 'Software Developer',
-  cta: 'Contact Me',
+  cta: 'Know More',
 };
 
 // ABOUT DATA
@@ -47,7 +47,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'Screenshot (207).png',
     title: 'Weather App',
-    info: 'This is a web app to monitor the weather of your location. Also tells you',
+    info: 'This is a web app to monitor the weather of your location.',
     info2: 'Built with Vuejs',
     url: 'http://weatherappvuej.surge.sh/',
     repo: 'https://github.com/favour-chibueze/vuejs-weather-application', // if no repo, the button will not show up
